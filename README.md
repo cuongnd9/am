@@ -1,4 +1,4 @@
-# whoiam
+# am - ask myself
 
 💪 Improve yourself by 👍 asking yourself
 
