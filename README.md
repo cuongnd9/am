@@ -4,7 +4,7 @@
 
 <img src='./images/motivation.gif' height=400 />
 
-> Asking yourself, again and again, is the life-changing power.
+> Inspired by [14 Questions to Ask Yourself Again and Again](https://forge.medium.com/14-questions-to-ask-yourself-again-and-again-8e832d1394c1) story
 
 ## Feature
 
