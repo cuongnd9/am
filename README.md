@@ -9,9 +9,7 @@
 ## Feature
 
 - [ ] OAuth & Google Sign-In
-- [ ] Using Graphql for Service & Mobile
-- [ ] Using TypeScript
-- [ ] Using Sequelize & Postgresql
+- [ ] Using React Native & Go
 - [ ] Building CI/CD
 - [ ] Integrating Docker & Azure
 - [ ] ...
