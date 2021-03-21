@@ -8,12 +8,12 @@
 
 ## Feature
 
-- [ ] OAuth & Google Sign-In
-- [ ] Using React Native & Go
+- [ ] Facebook & Google Sign-In
+- [ ] Using Flutter & Go
 - [ ] Building CI/CD
-- [ ] Integrating Docker & Azure
+- [ ] Integrating Docker & GCloud
 - [ ] ...
 
 ## License
 
-BSD 3-Clause License - [cuongw](https://github.com/cuongw)
+BSD 3-Clause License - [kimcuong060498](https://github.com/kimcuong060498)
